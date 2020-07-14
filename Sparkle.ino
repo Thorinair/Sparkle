@@ -1,12 +1,3 @@
-/*
- * Click
- *   Author:      Thorinair
- *   Version:     v1.0.0
- *   Description: A e WiFi power switch.
- *   
- *   This is the main source code file. All configuration is to be done inside the Configuration.h file.
-*/
-
 #include <ESP8266WiFi.h>
 #include <TwiFi.h>
 
