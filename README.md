@@ -1,0 +1,2 @@
+# Sparkle
+Sparkle is a simple ESP8266 powered system designed to monitor for signs of power loss. It achieves this by being constantly powered by both a charger and two AA batteries. Once there is a power loss, it keeps running off the build in batteries and submits relevant data to [Princess Luna](https://github.com/Thorinair/Princess-Luna).
